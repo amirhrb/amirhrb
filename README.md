@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📝 I regularly write articles on [Meduim.com](Meduim.com)
-
 - 💬 Ask me about **React and js**
 
 - 📫 How to reach me **Amirrabi70@gmail.com**
